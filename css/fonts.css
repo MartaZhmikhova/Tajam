@@ -1,0 +1,54 @@
+/* font-family: "LatoLight" */
+@font-face {
+  font-family: "HammersmithOne-Regular";
+  src: url("../fonts/Hammersmith_One/HammersmithOne-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+/* font-family: "PlayfairDisplay-Regular" */
+@font-face {
+  font-family: "PlayfairDisplay-Regular";
+  src: url("../fonts/Playfair_Display/PlayfairDisplay-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+/* font-family: "PlayfairDisplay-Bold" */
+@font-face {
+  font-family: "PlayfairDisplay-Bold";
+  src: url("../fonts/Playfair_Display/PlayfairDisplay-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+/* font-family: "Roboto-Thin" */
+@font-face {
+  font-family: "Roboto-Thin";
+  src: url("../fonts/Roboto/Roboto-Thin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+/* font-family: "Roboto-Regular" */
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+/* font-family: "Roboto-Black" */
+@font-face {
+  font-family: "Roboto-Black";
+  src: url("../fonts/Roboto/Roboto-Black.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("../fonts/Roboto/Roboto-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+
+/* font-family: "Roboto-Light" */
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("../fonts/Roboto/Roboto-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
