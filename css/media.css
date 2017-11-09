@@ -1,11 +1,15 @@
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */
 @media only screen and (max-width: 1200px) {
+  .popup {
+    width: 40%; }
   footer .social input {
     width: 70%; } }
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
+  .popup {
+    width: 50%; }
   header .top_menu {
     /*burger*/ }
     header .top_menu .burger {
@@ -51,10 +55,16 @@
     .client .client_col:nth-child(2n) {
       margin-right: 0; }
   footer .social {
-    margin-top: 40px; } }
+    margin-top: 40px; }
+  footer .footer {
+    text-align: center; }
+    footer .footer > p {
+      float: none; } }
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
+  .popup {
+    width: 65%; }
   header .top_menu ul {
     width: 100%; }
   header .header_carousel .header_carousel_item > a {
@@ -100,17 +110,14 @@
       .client .client_col > a img {
         width: 40%; }
   footer .addresses {
-    margin-top: 40px; }
-  footer .footer .footer_inform {
-    text-align: center; }
-    footer .footer .footer_inform a {
-      margin: 0 15px; }
-    footer .footer .footer_inform > p {
-      float: none;
-      margin-top: 10px; } }
+    margin-top: 40px; } }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
+  .popup {
+    width: 90%;
+    font-size: 16px;
+    line-height: 24px; }
   section, footer {
     padding: 40px 0; }
   header {
