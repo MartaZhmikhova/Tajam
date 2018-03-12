@@ -73,7 +73,7 @@ $(document).ready(function(){
         navText: ['<i class="fa fa-angle-left" ></i>','<i class="fa fa-angle-right"></i>']
     });
 
-    //owl-carousel comments
+  /*  //owl-carousel comments
         dotcount = 1;
         jQuery('.owl-dot').each(function() {
             jQuery( this ).addClass( 'dotnumber' + dotcount);
@@ -93,7 +93,7 @@ $(document).ready(function(){
         });
          amount = jQuery('.owl-dot').length;
         gotowidth = 100/amount;
-
+*/
     $( ".form_message" ).submit(function( event ) {
         $('.thank-you-message').css('display', 'block');
         this.reset();
